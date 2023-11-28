@@ -1,6 +1,6 @@
 ## Before using:
-```
-terminal: flutter pub add preload_page_view
+```cmd
+flutter pub add preload_page_view
 ```
 
 ## Example:
