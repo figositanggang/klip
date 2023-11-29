@@ -1,6 +1,15 @@
 ## Before using:
-```cmd
+```
 flutter pub add preload_page_view
+```
+
+## On your pubspec.yaml:
+![image](https://github.com/figositanggang/klip/assets/82425222/e5c40e4c-5e89-4e69-9093-227b94930146)
+```yaml
+klip:
+    git:
+      url: https://github.com/figositanggang/klip.git
+      ref: main
 ```
 
 ## Example:
